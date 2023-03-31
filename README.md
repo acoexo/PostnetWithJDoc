@@ -20,7 +20,7 @@ First of all, you need to create an "Titular" object and ser the attributes, nex
 ![](https://i.imgur.com/gOgu30U.jpg)
 
 ## Documentation
-For an bigger and better documentation, please check the [JavaDoc](https://acoexo.github.io/PostnetJDoc/)
+For an bigger and better documentation, please check the [JavaDoc](https://acoexo.github.io/PostnetJDOC/)
 
 ## Greatings to:
 [Charli Cimino POO class](https://www.youtube.com/watch?v=g_ZINDMzi3c) 
